@@ -1,1 +1,1 @@
-# OracleAnalyticsEmbeded
+# OracleAnalyticsEmbedded
